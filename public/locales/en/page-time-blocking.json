@@ -1,0 +1,12 @@
+{
+  "Calendar": {
+    "agenda": "Agenda",
+    "allDay": "All day",
+    "day": "Day",
+    "month": "Month",
+    "showMore": "Show more",
+    "today": "Today",
+    "week": "Week"
+  },
+  "eventName": "Time blocking"
+}

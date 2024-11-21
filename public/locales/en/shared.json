@@ -1,0 +1,12 @@
+{
+  "FormDateSelect": {
+    "text1": "Cancel",
+    "text2": "Save"
+  },
+  "TimeDateSelect": {
+    "text1": "Select time",
+    "text2": "Hour",
+    "text3": "Minutes",
+    "text4": "Select time"
+  }
+}

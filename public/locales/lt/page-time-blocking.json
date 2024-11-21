@@ -1,0 +1,12 @@
+{
+  "Calendar": {
+    "agenda": "Agenda",
+    "allDay": "Visą dieną",
+    "day": "Diena",
+    "month": "Mėnuo",
+    "showMore": "Daugiau",
+    "today": "Šiandien",
+    "week": "Savaitė"
+  },
+  "eventName": "Laiko blokavimas"
+}

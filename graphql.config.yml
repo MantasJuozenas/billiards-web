@@ -1,0 +1,5 @@
+schema: 
+    - src/typings/graphql/codegen/introspection.json
+documents: 
+  # - src/typings/graphql/fragments.graphql
+  - src/typings/graphql/fragments.graphql.ts

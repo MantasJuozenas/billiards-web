@@ -1,0 +1,11 @@
+{
+  "CartMenu": {
+    "text1": "My cart",
+    "text2": "Remove",
+    "text3": "Total",
+    "text4": "Order"
+  },
+  "MenuList": {
+    "text1": "Add to cart"
+  }
+}

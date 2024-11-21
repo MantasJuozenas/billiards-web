@@ -1,0 +1,14 @@
+{
+  "Contacts": {
+    "text": "Contacts::text"
+  },
+  "about-us": {
+    "text1": "about-us::text1",
+    "text2": "about-us::text2",
+    "text3": "about-us::text3",
+    "text4": "about-us::text4"
+  },
+  "AboutUs": {
+    "title": "AboutUs::title"
+  }
+}

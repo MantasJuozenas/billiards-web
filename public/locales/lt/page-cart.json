@@ -1,0 +1,24 @@
+{
+  "Main": {
+    "text1": "Jūsų krepšelis tusčias"
+  },
+  "OrderDetails": {
+    "text1": "Mano užsakymas",
+    "text10": "Įvyko klaida, bandykite dar kartą",
+    "text3": "Viso",
+    "text4": "Užsakyti",
+    "text6": "Pridėti daugiau",
+    "text8": "Pranešimas",
+    "text9": "Jūsų užsakymas gautas"
+  },
+  "OrderList": {
+    "text1": "Ištrinti"
+  },
+  "OrderListTable": {
+    "text1": "Pavadinimas",
+    "text2": "Kiekis",
+    "text3": "Kaina",
+    "text4": "Šalinti",
+    "text5": "Ištrinti"
+  }
+}

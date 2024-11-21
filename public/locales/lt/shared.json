@@ -1,0 +1,12 @@
+{
+  "FormDateSelect": {
+    "text1": "Atšaukti",
+    "text2": "Išsaugoti"
+  },
+  "TimeDateSelect": {
+    "text1": "Pasirinkite laiką",
+    "text2": "Valanda",
+    "text3": "Minutės",
+    "text4": "Pasirinkite laiką"
+  }
+}

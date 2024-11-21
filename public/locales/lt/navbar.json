@@ -1,0 +1,19 @@
+{
+  "Contact": {
+    "text1": "Susisiekite su mumis"
+  },
+  "LinksDefault": {
+    "text1": "Rezervacija",
+    "text2": "Meniu",
+    "text3": "Krepšelis",
+    "text4": "Mano taškai",
+    "text5": "Mūsų stalai",
+    "text6": "Įmonių vakarėliai",
+    "text7": "Kontaktai",
+    "text8": "ES parama"
+  },
+  "LinksDefaultAdmin": {
+    "text1": "Laiko blokavimas",
+    "text2": "Atsijungti"
+  }
+}

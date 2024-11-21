@@ -1,0 +1,27 @@
+{
+    "files.autoSaveDelay": 0,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "cSpell.words": [
+        "atlaskit",
+        "codegen",
+        "formik",
+        "hasura",
+        "Iiko",
+        "ilike",
+        "IMAF",
+        "middlewares",
+        "nextjs",
+        "nilike",
+        "pixinn",
+        "prefetch",
+        "progressbar",
+        "Promisable",
+        "reduxify",
+        "sonarjs",
+        "TMAF"
+    ],
+    "dotenv.enableAutocloaking": false
+}

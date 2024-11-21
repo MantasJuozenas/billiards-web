@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://example.com</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/about-us</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/admin-login</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/admin/time-blocking</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/cart</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/contacts</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/es-support</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/login</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/menu</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/order-success</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/our-tables</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/profile/my-points</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en/admin-login</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en/contacts</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en/admin/time-blocking</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en/cart</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en/es-support</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en/login</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en/about-us</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en/menu</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en/order-success</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en/our-tables</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/en/profile/my-points</loc><lastmod>2023-11-14T13:20:09.322Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>

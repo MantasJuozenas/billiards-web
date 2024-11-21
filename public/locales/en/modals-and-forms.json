@@ -1,0 +1,75 @@
+{
+  "FormAddOrEditReservation": {
+    "1 h.": "1 h.",
+    "1 h. 30 min.": "1 h. 30 min.",
+    "2 h.": "2 h.",
+    "2 h. 30 min.": "2 h. 30 min.",
+    "3 h.": "3 h.",
+    "3 h. 30 min.": "3 h. 30 min.",
+    "4 h.": "4 h.",
+    "4 h. 30 min.": "4 h. 30 min.",
+    "5 h.": "5 h.",
+    "At least one value must be selected": "At least one value must be selected",
+    "text1": "Resevation",
+    "text10": "Pool",
+    "text11": "Darts",
+    "text12": "Just eat",
+    "text14": "Required field",
+    "text15": "Reserve",
+    "text16": "Notification",
+    "text17": "Your order has been received",
+    "text18": "Selected time is wrong",
+    "text2": "Just play",
+    "text3": "Group (10+)",
+    "text4": "Company name",
+    "text5": "Date",
+    "text6": "Duration",
+    "text7": "Your phone number",
+    "text8": "Comment",
+    "text9": "Number of people",
+    "yourName": "Your name"
+  },
+  "FormConfirmation": {
+    "DeleteBlockedTime": {
+      "Cancel": "Cancel",
+      "Delete": "Delete",
+      "text": "Are you sure you want to delete {{dateRange}} time blocking event?"
+    }
+  },
+  "FormCreateEditEventInfo": {
+    "EventCreated": "Time successfully blocked",
+    "EventCreateFailed": "Failed to block time",
+    "EventDeleted": "Time successfully unblocked",
+    "EventEdited": "Time blocking successfully edited",
+    "EventEditFailed": "Failed to edit time blocking"
+  },
+  "FormInsertUpdateBlockedTime": {
+    "allDay": "All day",
+    "cancel": "Cancel",
+    "dart": "Darts",
+    "delete": "Delete",
+    "location": "Place",
+    "pool": "Pool",
+    "required": "Field is required",
+    "required2": "Most choose pool and/or darts",
+    "submit": "Submit",
+    "timeFrom": "Time from",
+    "timeTo": "Time to",
+    "title": "Time blocking {{date}}"
+  },
+  "FormLogin": {
+    "text2": "Card number",
+    "text3": "Code",
+    "text4": "Remember me",
+    "text5": "Login",
+    "text6": "Error accrued, try again",
+    "text7": "Required field",
+    "text8": "Login"
+  },
+  "FormViewMenuItem": {
+    "text1": "Cancel",
+    "text2": "Save",
+    "text3": "Notification",
+    "text4": "Your selected product has been added to the cart"
+  }
+}

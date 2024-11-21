@@ -1,0 +1,44 @@
+:root {
+    --rememberScrollY: 1;
+}
+html {
+    overflow-x: hidden;
+}
+html, body {
+    /* font-size: 6.25%; */
+    /* font-size: calc(15rem + 1vmin); */
+    box-sizing: border-box;
+    min-height: 100%;
+    min-height: 100vh;
+    width: 100%;
+    margin:0;
+    padding:0;
+    font-family: 'Open sans', sans-serif;
+    font-weight: 400;
+    color: black;
+}
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+    font-family: 'Open sans', sans-serif;
+    /* font-weight: 400; */
+    /* color: #282828; */
+}
+#__next {
+    min-height: 100%;
+    min-height: 100vh; 
+    width: 100%;
+}
+.__Overflow__Hidden__ {
+    overflow: hidden;
+}
+html.__Overflow__Hidden__, body.__Overflow__Hidden__ {
+    height: 100vh;
+}
+svg {
+    user-select: none;
+}
+a {
+    text-decoration: none;
+}

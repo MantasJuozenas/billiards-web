@@ -1,0 +1,75 @@
+{
+  "FormAddOrEditReservation": {
+    "1 h.": "1 val.",
+    "1 h. 30 min.": "1 val. 30 min.",
+    "2 h.": "2 val.",
+    "2 h. 30 min.": "2 val. 30 min.",
+    "3 h.": "3 val.",
+    "3 h. 30 min.": "3 val. 30 min.",
+    "4 h.": "4 val.",
+    "4 h. 30 min.": "4 val. 30 min.",
+    "5 h.": "5 val.",
+    "At least one value must be selected": "Privaloma pasirinkti bent vieną reikšmę",
+    "text1": "Rezervacija",
+    "text10": "Biliardas",
+    "text11": "Smiginis",
+    "text12": "Tiesiog pavalgyti",
+    "text14": "Privalomas laukas",
+    "text15": "Rezervuotis",
+    "text16": "Pranešimas",
+    "text17": "Jūsų užsakymas gautas",
+    "text18": "Pasirinktas netinkamas laikas",
+    "text2": "Tiesiog pažaisti",
+    "text3": "Didesnei kompanijai (10+)",
+    "text4": "Įmonės pavadinimas",
+    "text5": "Data",
+    "text6": "Trukmė",
+    "text7": "Jūsų tel. numeris",
+    "text8": "Komentaras",
+    "text9": "Žmonių skaičius",
+    "yourName": "Jūsų vardas"
+  },
+  "FormConfirmation": {
+    "DeleteBlockedTime": {
+      "Cancel": "Atšaukti",
+      "Delete": "Pašalinti",
+      "text": "Ar tikrai norite pašalinti {{dateRange}} laiko blokavimo įvykį?"
+    }
+  },
+  "FormCreateEditEventInfo": {
+    "EventCreated": "Laikas sėkmingai užblokuotas",
+    "EventCreateFailed": "Nepavyko užblokuoti laiko",
+    "EventDeleted": "Laikas sėkmingai atblokuotas",
+    "EventEdited": "Laiko blokavimas sėkmingai pakeistas",
+    "EventEditFailed": "Nepavyko pakeisti užblokuoto laiko"
+  },
+  "FormInsertUpdateBlockedTime": {
+    "allDay": "Visa diena",
+    "cancel": "Atšaukti",
+    "dart": "Smiginis",
+    "delete": "Pašalinti",
+    "location": "Vieta",
+    "pool": "Biliardas",
+    "required": "Laukas yra privalomas",
+    "required2": "Privaloma pasirinkti biliardą ir/arba smiginį",
+    "submit": "Išsaugoti",
+    "timeFrom": "Laikas nuo",
+    "timeTo": "Laikas iki",
+    "title": "Laiko blokavimas {{date}}"
+  },
+  "FormLogin": {
+    "text2": "Kortelės numeris",
+    "text3": "Kodas",
+    "text4": "Remember me",
+    "text5": "Prisijungti",
+    "text6": "Įvyko klaida, bandykite dar karta",
+    "text7": "Privalomas laukas",
+    "text8": "Prisijungimas"
+  },
+  "FormViewMenuItem": {
+    "text1": "Atšaukti",
+    "text2": "Išsaugoti",
+    "text3": "Pranešimas",
+    "text4": "Jūsų pasirinkta prekė buvo įdėta į krepšelį"
+  }
+}

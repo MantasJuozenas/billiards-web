@@ -1,0 +1,14 @@
+schema: 
+  - src/typings/graphql/codegen/introspection.json
+generates:
+  src/typings/graphql/codegen/queries.d.ts:
+    documents: 'src/**/!(*.d).{js,ts,jsx,tsx,graphql,gql}'
+    preset: import-types
+    presetConfig:
+      typesPath: './extended-schema'
+    plugins:
+      - typescript-operations
+    config:
+      skipTypeNameForRoot: true
+      omitOperationSuffix: true
+      preResolveTypes: false

@@ -1,0 +1,51 @@
+schema: 
+  - ${GQL_API_URL}:
+      headers:
+        x-hasura-admin-secret: ${GQL_ADMIN_SECRET}
+generates:
+  src/typings/graphql/codegen/introspection.json:
+    plugins:
+      - introspection
+    config:
+      minify: true
+  src/typings/graphql/codegen/extended-schema.d.ts:
+    plugins:
+      - add:
+          content: "export * from './schema';"
+    overwrite: false
+  src/typings/graphql/codegen/index.d.ts:
+    plugins:
+      - add: 
+          content: "export * as Schema from './extended-schema';"
+      - add:
+          content: "export * as Queries from './queries';"
+      - add: 
+          content: "export as namespace GQL_gen;"
+    documents: []
+  src/typings/graphql/codegen/schema.d.ts:
+    plugins:
+      - typescript
+    config:
+      enumsAsTypes: true
+      scalars:
+        bigint: number
+        float8: number
+        numeric: number
+        _text: string
+        date: Date
+        timestamptz: Date
+        jsonb: object
+        point: object
+      maybeValue: T | null | undefined
+    documents: []
+  src/typings/graphql/codegen/queries.d.ts:
+    documents: 'src/**/!(*.d).{js,ts,jsx,tsx,graphql,gql}'
+    preset: import-types
+    presetConfig:
+      typesPath: './extended-schema'
+    plugins:
+      - typescript-operations
+    config:
+      skipTypeNameForRoot: true
+      omitOperationSuffix: true
+      preResolveTypes: false

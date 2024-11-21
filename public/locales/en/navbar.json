@@ -1,0 +1,19 @@
+{
+  "Contact": {
+    "text1": "Contact us"
+  },
+  "LinksDefault": {
+    "text1": "Reservation",
+    "text2": "Menu",
+    "text3": "Cart",
+    "text4": "My points",
+    "text5": "Our tables",
+    "text6": "Company parties",
+    "text7": "Contacts",
+    "text8": "ES support"
+  },
+  "LinksDefaultAdmin": {
+    "text1": "Time blocking",
+    "text2": "Logout"
+  }
+}

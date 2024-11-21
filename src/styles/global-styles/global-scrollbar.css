@@ -1,0 +1,19 @@
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+::-webkit-scrollbar-track {
+    /* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); */
+    -webkit-backface-visibility: inherit;
+    border-radius: 10px;
+    background: rgb(231, 231, 231);
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+    background: #888;
+    /* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); */
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

@@ -1,0 +1,24 @@
+{
+  "Main": {
+    "text1": "Your cart is empty"
+  },
+  "OrderDetails": {
+    "text1": "My order",
+    "text10": "An error occurred, please try again",
+    "text3": "Total",
+    "text4": "Order",
+    "text6": "Add more",
+    "text8": "Notification",
+    "text9": "Your order has been received"
+  },
+  "OrderList": {
+    "text1": "Delete"
+  },
+  "OrderListTable": {
+    "text1": "Title",
+    "text2": "Quantity",
+    "text3": "Price",
+    "text4": "Remove",
+    "text5": "Delete"
+  }
+}

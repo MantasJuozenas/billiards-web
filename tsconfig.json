@@ -1,0 +1,55 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "baseUrl": "./",
+    "paths": {
+      // "*": ["./*"],
+      "@clients/*" : ["./src/clients/*"],
+      "@public/*": ["./public/*"],
+      "@components/*": ["./src/components/*"],
+      "@pages/*": ["./src/pages/*"],
+      "@store/*": ["./src/store/*"],
+      "@utilsFn/*" : ["./src/utils/*"],
+      "@styles/*": ["./src/styles/*"],
+      "@constants/*": ["./src/constants/*"],
+      "@typings/*": ["./src/typings/*"],
+      "underscore": ["lodash"],
+      "@api/*": ["./src/pages/api/*"],
+      "@apiUtilsFn/*": ["./src/pages/api/utils/functions/*"],
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": [
+    "./.gitlab/**",
+    "./.husky/**",
+    "./.next/**",
+    "./.swc/**",
+    "./.vscode/**",
+    // "./public/**",
+    "./node_modules/**",
+    "node_modules",
+    // "./src/typings/graphql/codegen/**",
+    "./src/pages/api/utils/sequelize/**",
+  ]
+}
