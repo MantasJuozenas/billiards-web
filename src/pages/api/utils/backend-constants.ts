@@ -7,19 +7,19 @@ export const RE_CAPTCHA_KEY_SERVER = process.env.RE_CAPTCHA_KEY_SERVER || '';
 export const IIKO_API_URL = process.env.IIKO_API_URL;
 export const LOGIN_PASSWORD = process.env.LOGIN_PASSWORD || '';
 
-export const IIKO_API_LOGIN = "";
+export const IIKO_API_LOGIN = '';
 export const IIKO_ORGANIZATION_ID = '';
 
 export const IIKO_DATA_BY_LOCATION = {
-    'Kaunas': {
-        IIKO_ORGANIZATION_ID: '',
-        IIKO_TERMINAL_GROUP_ID: ''
-    },
-    'Vilnius': {
-        IIKO_ORGANIZATION_ID: '',
-        IIKO_TERMINAL_GROUP_ID: ''
-    }
-}
+  Kaunas: {
+    IIKO_ORGANIZATION_ID: '',
+    IIKO_TERMINAL_GROUP_ID: ''
+  },
+  Vilnius: {
+    IIKO_ORGANIZATION_ID: '',
+    IIKO_TERMINAL_GROUP_ID: ''
+  }
+};
 
 export const SALT_ROUNDS = 10;
 
@@ -28,6 +28,5 @@ export const NAMED_SENDER = '';
 export const BALTNET_API_KEY = '';
 export const BALTNET_LOGIN = '';
 
-
-export const TABLES: Record<string, { tableId: string; tableNumber: number }> = {
-  };
+export const TABLES: Record<string, { tableId: string; tableNumber: number }> =
+  {};

@@ -24,12 +24,7 @@ export const EmailClient = async (props: G.TEmailNodemailer) => {
       subject,
       html,
       ...props,
-      to:
-        IS_PROD && !IS_STAGING
-          ? to
-          : [
-''
-            ]
+      to: IS_PROD && !IS_STAGING ? to : ['']
     };
 
     const resEmail = await transporter.sendMail(mail);

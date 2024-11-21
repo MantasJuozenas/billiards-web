@@ -12,10 +12,7 @@ import sendSMS from './baltneta/baltneta';
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 // const twilioSMSClient = require('twilio')(TWILIO_SID, TWILIO_TOKEN);
 
-const adminPhones = [
-
-  '37063934731'
-];
+const adminPhones = ['37063934731'];
 
 const phoneNotToSend = [''];
 
